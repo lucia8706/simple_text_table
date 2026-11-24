@@ -1,6 +1,6 @@
 [project]
 name = "simple-text-table"
-version = "0.1.0"
+version = "0.1.1"
 description = "Print aligned text table columns with correct widths for wide characters."
 requires-python = ">=3.10"
 dependencies = []
